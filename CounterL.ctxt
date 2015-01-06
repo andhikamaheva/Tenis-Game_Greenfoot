@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ CounterR\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=sl
+comment1.target=CounterL(RaketKiri)
+comment2.params=pRaket
+comment2.target=void\ aktualisiere(int)
+numComments=3

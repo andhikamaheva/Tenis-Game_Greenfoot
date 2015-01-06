@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=width\ height\ pName\ pFunktion\ pImage
+comment0.target=Tombol(int,\ int,\ java.lang.String,\ int,\ greenfoot.GreenfootImage)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act-\ Methode-\ Bestimmt\ das\ Verhalten.\r\n
+comment2.params=
+comment2.target=void\ anklicken()
+comment2.text=\r\n\ Diese\ Methode\ bestimmt,\ welcher\ Button\ welche\ Aktion\ ausf\u00FChren\ soll,\ falls\ auf\ ihn\ geklickt\ wurde.\ Falls\ ihr\ mehr\ als\ zwei\ Funktionen\ \r\n\ ben\u00F6tigt,\ orientiert\ euch\ an\ dem\ bereits\ vorhandenen\ Code\r\n
+comment3.params=
+comment3.target=Lapangan\ getLapangan()
+numComments=4
